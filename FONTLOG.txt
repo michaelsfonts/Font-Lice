@@ -1,0 +1,21 @@
+FONTLOG for Font Lice
+
+A display serif with an infestation. Small emoji icons attach themselves to letterforms at their most structurally vulnerable points. Hairline strokes, serif tips, terminals, and curve junctions all become host sites for digital organisms.
+Built entirely in Python with fontTools. Placement determined by rasterizing each glyph and scoring edge pixels by stroke width and structural extrema.
+
+ChangeLog
+
+v1.000
+Initial release. A-Z, a-z, 0-9, basic punctuation. COLR/CPAL color emoji. OTF and WOFF2.
+
+Sources
+
+Cormorant Regular by Christian Thalmann (OFL 1.1)
+https://github.com/CatharsisFonts/Cormorant
+
+Microsoft Fluent Emoji flat (MIT)
+https://github.com/microsoft/fluentui-emoji
+
+License
+
+SIL Open Font License 1.1. Embedded emoji under MIT.
