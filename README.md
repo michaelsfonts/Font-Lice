@@ -1,5 +1,7 @@
 # Font Lice
 
+![Font Lice specimen](images/specimen.png)
+
 A display serif with an infestation. Small emoji icons attach themselves to letterforms at their most structurally vulnerable points. Hairline strokes, serif tips, terminals, and curve junctions all become host sites for digital organisms.
 
 ## Download
