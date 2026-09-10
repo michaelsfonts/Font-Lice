@@ -6,9 +6,9 @@ A display serif with an infestation. Small emoji icons attach themselves to lett
 
 ## Download
 
-The OTF and the WOFF2 are on the [Releases](https://github.com/michaelsfonts/Font-Lice/releases/latest) page, along with a zip holding both.
+[Releases](https://github.com/michaelsfonts/Font-Lice/releases/latest). OTF, WOFF2, or a zip with both.
 
-You can also just browse [`fonts/`](fonts/).
+Same files in [`fonts/`](fonts/).
 
 ## Details
 
@@ -22,4 +22,4 @@ You can also just browse [`fonts/`](fonts/).
 
 ---
 
-Part of [Michael's Fonts](https://michaelsfonts.com). Repo is archived now that the font is finished.
+Part of [Michael's Fonts](https://michaelsfonts.com). Archived, the font is finished.
