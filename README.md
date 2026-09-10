@@ -6,7 +6,7 @@ A display serif with an infestation. Small emoji icons attach themselves to lett
 
 ## Download
 
-**[Download Font Lice 1.000](https://github.com/michaelsfonts/Font-Lice/releases/latest)** — OTF to install on your computer, WOFF2 for the web, or the zip with both.
+**[Download Font Lice 1.000](https://github.com/michaelsfonts/Font-Lice/releases/latest)**: OTF to install on your computer, WOFF2 for the web, or the zip with both.
 
 The same files are in [`fonts/`](fonts/) if you would rather browse the repo.
 
